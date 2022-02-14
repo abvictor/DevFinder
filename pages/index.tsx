@@ -28,7 +28,6 @@ const Home: NextPage = () => {
   async function handleSearch() {
     const response = await fetch(`https://api.github.com/users/${username}`);
     const data = await response.json();
-    console.log(data);
 
     if (data.message === "Not Found") {
       setHasResult(false);
