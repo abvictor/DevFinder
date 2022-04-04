@@ -1,5 +1,10 @@
+import { createGlobalStyle } from "styled-components";
+
+export default createGlobalStyle`
 html,
 body {
+  background-color: ${(props) => props.theme.colors.background};
+  color: ${(props) => props.theme.colors.text};
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
@@ -23,3 +28,4 @@ p {
   font-size: 14px;
   letter-spacing: 1px;
 }
+`;
