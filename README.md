@@ -1,7 +1,7 @@
 ## Este projeto foi um desafio disponibilizado pela plataforma Frontend Mentor
 <div align="center">
   
-![Final Project Design]()
+![Project Final Desing Giff](https://user-images.githubusercontent.com/43121767/161606035-6d0bfcdb-2ace-488e-85eb-fa81419167c0.gif)
 </div>
 
 ## Sobre o projeto
@@ -17,8 +17,6 @@ O projeto baseia-se em buscar dev's a partir do seu nome de usuário utilizado n
 
 
 ### Para iniciar o projeto
-
-##### Faça um clone do projeto e na pasta raiz digite:
 
 - yarn (para instalação dos pacotes)
 
