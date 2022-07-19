@@ -8,6 +8,7 @@ export const FullDesign = styled.div`
     justify-content: center;
 
     background-color: ${(props) => props.theme.colors.background};
+    transition: 1.5s;
     padding: 0 20px;
   }
   .content {
