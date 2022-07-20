@@ -26,10 +26,9 @@ O projeto baseia-se em buscar dev's a partir do seu nome de usuário utilizado n
 #### App hospedado no Heroku
 https://githubfinder-fem.herokuapp.com/
 ##### obs: O app pode demorar alguns segundos para inicializar no site
-##### Link da plataforma
 
+##### Link da plataforma
 https://www.frontendmentor.io/challenges
 
 ##### Link do desafio na plataforma
-
 https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6
