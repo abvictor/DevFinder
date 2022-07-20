@@ -23,6 +23,9 @@ O projeto baseia-se em buscar dev's a partir do seu nome de usuário utilizado n
 - yarn dev (para rodar o projeto)
 
 ### Links
+#### App hospedado no Heroku
+https://githubfinder-fem.herokuapp.com/
+##### obs: O app pode demorar alguns segundos para inicializar no site
 ##### Link da plataforma
 
 https://www.frontendmentor.io/challenges
