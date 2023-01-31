@@ -24,7 +24,7 @@ O projeto baseia-se em buscar dev's a partir do seu nome de usuário utilizado n
 
 ### Links
 #### App hospedado no Heroku
-https://githubfinder-fem.herokuapp.com/
+https://dev-finder-weld-five.vercel.app/
 ##### obs: O app pode demorar alguns segundos para inicializar no site
 
 ##### Link da plataforma
